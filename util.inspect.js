@@ -1,1 +1,1 @@
-module.exports = require('util').inspect;
+module.exports = undefined // Never use Node's util.inspect
